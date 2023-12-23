@@ -1,4 +1,4 @@
-i#include "sort.h"
+#include "sort.h"
 /**
  *selection_sort - sorts an array using selection algorithm
  *@array: array to be sorted
